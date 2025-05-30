@@ -1,7 +1,3 @@
-import numpy as np
-
-
-
 # Givna parametrar
 t_kond_steam = 95
 t2_heatpump = 7
