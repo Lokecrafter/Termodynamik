@@ -83,3 +83,8 @@ print("Alla variabler:")
 for name, value in sorted(locals().items()):
     if not name.startswith("__") and not callable(value):
         print(f"{name}: {value}")
+
+
+
+# 1.7722297
+# 0.2429425
